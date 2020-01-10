@@ -1,0 +1,16 @@
+.right-nav{
+    text-align: right;
+}
+
+.center-nav{
+    text-align: center;
+}
+
+.btn-new {
+    background-color: #2A3F54;
+}
+
+.card{
+    padding-top: 2%;
+    max-height: fit-content;
+}
